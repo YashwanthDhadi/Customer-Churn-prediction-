@@ -1,5 +1,11 @@
 # 📊 Customer Churn Prediction using Machine Learning
 
+## 🌐 Live Demo
+
+Try the application here:
+
+🔗https://customer---churn.streamlit.app/
+
 ## 📌 Overview
 
 Customer churn is one of the biggest challenges faced by subscription-based businesses. This project uses **Machine Learning** to predict whether a customer is likely to leave a service based on their demographic and service usage information.
